@@ -14,7 +14,7 @@ Para poder predecir si un texto nuevo se clasifica como ositivo o negativo, se u
 Asi como algunos modelos más complejos como utilizando 3 arquitecturas de redes neuronales recurrentes ***describir las arquitecturas*** y un modelo de Representación de Codificador Bidireccional de Transformadores (BERT).
 
 ## Predicciones
-Para las predicciones se realizo un scrapper de redes sociales como reddit y twitter, de esta última con la funcionalidad de poder obtener tweets por nombre de usuario
+Para las predicciones se realizo un scrapper de redes sociales como reddit y twitter, de esta última con la funcionalidad de poder obtener tweets por nombre de usuario, tambien se añadió la caracteristica de convertir audio a texto de archivos .wav 
 
 ## Como correr el código
 Solo se necesita un ambiente que trabaje con archivos .ipynb como Jupyter notebook o Google Colab. Sin embargo si se quiere correr la parte de obtener usuarios de twitter se debe añadir un archivo .py llamado 'private.py' donde estén las claves y llaves de acceso al API de twitter. En este repositorio se pone un archivo muestra para saber como llenar las claves.
