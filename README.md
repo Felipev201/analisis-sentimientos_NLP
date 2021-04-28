@@ -7,9 +7,9 @@ Se buscó en Kaggle datos etiquetados para realizar el entrenamiento de un anali
 
 ## Entrenamiento de modelos
 Para poder predecir si un texto nuevo se clasifica como ositivo o negativo, se utilizaron los siguientes modelos básicos
--. Bayes Ingenuo (Multinomial y Bernoulli)
--. Regresion logística
--. Maquinas de ectores de soporte
+- Bayes Ingenuo (Multinomial y Bernoulli)
+- Regresion logística
+- Maquinas de ectores de soporte
 
 Asi como algunos modelos más complejos como utilizando 3 arquitecturas de redes neuronales recurrentes ***describir las arquitecturas*** y un modelo de Representación de Codificador Bidireccional de Transformadores (BERT).
 
